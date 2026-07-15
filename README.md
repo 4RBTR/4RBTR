@@ -63,11 +63,5 @@ A full-stack web application for tracking vehicle maintenance, spare parts, serv
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=4RBTR&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakNum=F8D866" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4RBTR&layout=donut&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/4RBTR?template=classic&base=activity,community,repositories,metadata&languages=yes&languages_colors=github&languages_limit=8&languages_threshold=0%25&config_timezone=Asia%2FJakarta" alt="Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4RBTR&layout=donut&langs_count=6&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&v=12345" alt="Top Languages" />
 </div>
