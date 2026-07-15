@@ -24,6 +24,5 @@ I am a Software Engineering (RPL) student at SMK Telkom Malang with a passion fo
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=4RBTR&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4RBTR&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/4RBTR)
+
